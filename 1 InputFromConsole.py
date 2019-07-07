@@ -12,3 +12,5 @@ if (r > 10) :
     print("too much intrest")
 
 print ((p*n*r)/100)
+
+
